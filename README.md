@@ -37,5 +37,5 @@ a cute cat
 → Generates 3 images with one queue job!
 ```
 
-Created by Michel with Claude
+Ideation by max-dingsda, code by Claude-Sonnet
 "# ComfyUI-PromptLoop" 
