@@ -79,4 +79,4 @@ a cute cat sleeping on a pillow
 
 ---
 
-Created by Michel with Claude
+Created by max with Claude
